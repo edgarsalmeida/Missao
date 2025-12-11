@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import sys
+import sys # Importa o módulo sys para acessar argumentos da linha de comando
 
 def verificar_palavra(parametro_esperado):
     """

@@ -2,7 +2,7 @@
 
 #Solicitar ao usuário que insira dois números
 num1 = int(input("Me dê o primeiro número: "))
-num2 = int(input("Me dê o primeiro número: "))
+num2 = int(input("Me dê o segundo  número: "))
 
 print("Obrigado!")
 
